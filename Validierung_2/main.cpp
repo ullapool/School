@@ -9,8 +9,7 @@ int main()
 {
 
 
-     //lets make even more changes
-    //lets make some changes ldkfkjdsifhfighfd
+
     //vector<int> values = {20, 12, 34, 9, 19, 29};                                 // is search tree
     //vector<int> values = {100, 50, 150, 25, 75, 125, 175};                      // is search tree
     //vector<int> values = {10, 8, 12, 4, 9, 11, 16};                             // is search tree
