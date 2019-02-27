@@ -6,11 +6,7 @@ using namespace std;
 bool TreeUtil::isBinarySearchTree(vector<int> value, int idx, int min, int max)
 {
     unsigned int left = idx * 2 + 1;
-    cout<<"left: "<<left<<endl;
     unsigned int right = idx * 2 + 2;
-
-
-    cout<<"right: "<<right<<endl;
 
     // Abbruchbedingung
 
