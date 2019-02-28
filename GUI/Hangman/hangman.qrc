@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/background">
+        <file>Hangman01.png</file>
+        <file>Hangman02.png</file>
+        <file>Hangman03.png</file>
+        <file>Hangman04.png</file>
+        <file>Hangman05.png</file>
+        <file>Hangman06.png</file>
+        <file>Hangman07.png</file>
+        <file>Hangman08.png</file>
+        <file>Hangman10.png</file>
+        <file>Hangman09.png</file>
+        <file>Hangman11.png</file>
+        <file>Hangman12.png</file>
+    </qresource>
+</RCC>
